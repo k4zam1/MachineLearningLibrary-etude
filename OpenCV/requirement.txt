@@ -1,0 +1,8 @@
+cv2
+dropbox
+oauth2client
+httplib2
+
+keras-yolo3
+dropbox access key
+gmail client secret
